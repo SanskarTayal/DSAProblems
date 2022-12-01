@@ -1,0 +1,11 @@
+priority queue complete binary tree is implemented using array.
+
+parent child index is i-1/2;
+
+chind index is 2i+1 ans 2i+2
+
+Heap Follow Complete binary tree property and Heap Order property
+CBT property is 
+Only LAst level of a tree can be unfinished.
+Elements must be added from left to right.
+Heap Order Property is a property which tells in Min Heap The top should have Minimum priority element and In max heap the root should have Maximum element.
