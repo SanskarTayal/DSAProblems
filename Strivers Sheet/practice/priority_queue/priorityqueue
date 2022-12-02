@@ -9,3 +9,6 @@ CBT property is
 Only LAst level of a tree can be unfinished.
 Elements must be added from left to right.
 Heap Order Property is a property which tells in Min Heap The top should have Minimum priority element and In max heap the root should have Maximum element.
+
+
+Heap Sort time complexity is O(nlogn)
