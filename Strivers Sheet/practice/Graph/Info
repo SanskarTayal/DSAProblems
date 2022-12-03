@@ -1,0 +1,23 @@
+Nodes need not to be connected to each other.
+Like some nodes may not be connected to the graph may look seperate.
+For eg Social Media,road network.
+It has no parent child pattern
+Tree is a special kind of graph with more constrains.
+Tree Dont have cycles but graph can havee them.
+
+
+Graph Terminologies:-
+Vertices: Nodes
+Edges: Connection between vertices
+Adjacent Vertices: Nodes if they have direct connection between them.
+Degree: No of edges connected to a node
+Path: Ways to travel between 2 nodes.
+Connected Graph: If there is path from every vertex to any other vertices.
+Disconnected: Which is not connected.
+Subgraph: Subset of vertices and subset of edges between those vertices;
+Connected Component: Disconnected graphs have components totally seperate from each other and no path to each other.
+Tree: Graph with no cycles.
+Forest:Collection of multiple trees
+Spanning Tree: Connected graph with minimum number of edges so that we can traved from any node to any other node. if we remove one more graph it will become disconnected. it dont have cycles.
+Tree after removing all the edges which even when removed will keep the graph connected. One graph can have multiple spanning tree.
+Complete Graph:Direct Connection exists between every pair of nodes in graph
