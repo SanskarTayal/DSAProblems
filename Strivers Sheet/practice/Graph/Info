@@ -21,3 +21,4 @@ Forest:Collection of multiple trees
 Spanning Tree: Connected graph with minimum number of edges so that we can traved from any node to any other node. if we remove one more graph it will become disconnected. it dont have cycles.
 Tree after removing all the edges which even when removed will keep the graph connected. One graph can have multiple spanning tree.
 Complete Graph:Direct Connection exists between every pair of nodes in graph
+DFS similar to PreOrder
